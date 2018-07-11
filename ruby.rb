@@ -19,5 +19,4 @@
 	      
 	  end
 	  
-	  
 	  time_of_day(10)
