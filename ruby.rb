@@ -2,18 +2,18 @@
 	    
      if time >= 7 && time < 11
        
-          puts "Good morning!" 
+          puts "Go back to bed!" 
         
       elsif time >= 11 && time <17 
       
-          puts "Good afternoon!" 
+          puts "Get up and do homework, take Nora out first!" 
 	        
 	      elsif time >= 17 && time < 20
-	        puts "Good evening" 
+	        puts "Go outside!" 
 	        
 	      else 
 	        
-	        puts "Good night!" 
+	        puts "Go to bed, or watch criminal minds!" 
 	        
 	      end 
 	      
